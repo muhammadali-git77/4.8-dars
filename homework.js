@@ -119,7 +119,7 @@ let intObj = {};
 int = String(int);
 int = int.split("").reverse().join("");
 for (let i = 0; i <= int.length; i++) {}
-
+//Qila olmadim.
 console.log(intObj);
 console.log(int);
 
