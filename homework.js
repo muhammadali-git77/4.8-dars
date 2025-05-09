@@ -54,7 +54,7 @@ for (const i in obj) {
   counterV += obj[i];
 }
 
-console.log(counterK, counterV);
+console.log(counterK + counterV);
 
 //4. Stringlar massivi berilgan. Shunday object hosil qilingki, o’sha objectning kalitlari massiv elementlaridan va qiymatlari esa ularning uzunligidan iborat bo’lsin. (for)
 // Input: ["Abdulaziz", "Safarmurod", "O’rol", "Jahongir"]
